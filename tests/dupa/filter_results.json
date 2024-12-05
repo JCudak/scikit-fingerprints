@@ -1,0 +1,650 @@
+[
+    {
+        "dataset_name": "BACE",
+        "filter_name": "No Filter",
+        "filter_accuracy": 0.6381578947368421,
+        "filter_difference": 0
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "Lipinski",
+        "filter_accuracy": 0.6893939393939394,
+        "filter_difference": 0.0512360446570973
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "BeyondRo5",
+        "filter_accuracy": 0.6666666666666666,
+        "filter_difference": 0.028508771929824483
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "BMS",
+        "filter_accuracy": 0.6333333333333333,
+        "filter_difference": -0.0048245614035088424
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "Brenk",
+        "filter_accuracy": 0.6612903225806451,
+        "filter_difference": 0.023132427843802983
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "faf4_druglike",
+        "filter_accuracy": 0.8378378378378378,
+        "filter_difference": 0.19967994310099568
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "faf4_leadlike",
+        "filter_accuracy": 0.8260869565217391,
+        "filter_difference": 0.187929061784897
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "ghose",
+        "filter_accuracy": 0.7659574468085106,
+        "filter_difference": 0.1277995520716685
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "hao",
+        "filter_accuracy": 0.7714285714285715,
+        "filter_difference": 0.13327067669172932
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "inpharmatica",
+        "filter_accuracy": 0.6482758620689655,
+        "filter_difference": 0.010117967332123334
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "lint",
+        "filter_accuracy": 0.5641025641025641,
+        "filter_difference": -0.07405533063427805
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "mlsmr",
+        "filter_accuracy": 0.7777777777777778,
+        "filter_difference": 0.13961988304093564
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "mol_weight",
+        "filter_accuracy": 0.6418918918918919,
+        "filter_difference": 0.0037339971550497397
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "nibr",
+        "filter_accuracy": 0.656,
+        "filter_difference": 0.01784210526315788
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "nih",
+        "filter_accuracy": 0.6333333333333333,
+        "filter_difference": -0.0048245614035088424
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "oprea",
+        "filter_accuracy": 0.7619047619047619,
+        "filter_difference": 0.12374686716791972
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "pains",
+        "filter_accuracy": 0.6513157894736842,
+        "filter_difference": 0.013157894736842035
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "pfizer",
+        "filter_accuracy": 0.5862068965517241,
+        "filter_difference": -0.05195099818511806
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "rule_of_3",
+        "filter_accuracy": 0.9,
+        "filter_difference": 0.2618421052631579
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "rule_of_4",
+        "filter_accuracy": 0.6428571428571429,
+        "filter_difference": 0.0046992481203007586
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "rule_of_xu",
+        "filter_accuracy": 0.6791044776119403,
+        "filter_difference": 0.040946582875098114
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "surechembl",
+        "filter_accuracy": 0.6027397260273972,
+        "filter_difference": -0.03541816870944492
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "tice_herebicides",
+        "filter_accuracy": 0.7241379310344828,
+        "filter_difference": 0.08598003629764062
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "tice_insecticides",
+        "filter_accuracy": 0.7454545454545455,
+        "filter_difference": 0.10729665071770333
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "valence_discovery",
+        "filter_accuracy": 0.68,
+        "filter_difference": 0.0418421052631579
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "zinc_basic",
+        "filter_accuracy": 0.696078431372549,
+        "filter_difference": 0.05792053663570684
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": "zinc_druglike",
+        "filter_accuracy": 0.825,
+        "filter_difference": 0.1868421052631578
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "No Filter",
+        "filter_accuracy": 0.5637254901960784,
+        "filter_difference": 0
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "Lipinski",
+        "filter_accuracy": 0.563953488372093,
+        "filter_difference": 0.00022799817601459882
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "BeyondRo5",
+        "filter_accuracy": 0.5526315789473685,
+        "filter_difference": -0.011093911248709953
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "BMS",
+        "filter_accuracy": 0.5659340659340659,
+        "filter_difference": 0.002208575737987495
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "Brenk",
+        "filter_accuracy": 0.6147540983606558,
+        "filter_difference": 0.05102860816457733
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "faf4_druglike",
+        "filter_accuracy": 0.5806451612903226,
+        "filter_difference": 0.016919671094244193
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "faf4_leadlike",
+        "filter_accuracy": 0.6323529411764706,
+        "filter_difference": 0.06862745098039214
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "ghose",
+        "filter_accuracy": 0.5981308411214953,
+        "filter_difference": 0.034405350925416855
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "hao",
+        "filter_accuracy": 0.652542372881356,
+        "filter_difference": 0.08881688268527754
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "inpharmatica",
+        "filter_accuracy": 0.6050955414012739,
+        "filter_difference": 0.041370051205195435
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "lint",
+        "filter_accuracy": 0.5804195804195804,
+        "filter_difference": 0.01669409022350199
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "mlsmr",
+        "filter_accuracy": 0.5959595959595959,
+        "filter_difference": 0.032234105763517484
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "mol_weight",
+        "filter_accuracy": 0.56,
+        "filter_difference": -0.0037254901960783737
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "nibr",
+        "filter_accuracy": 0.5644171779141104,
+        "filter_difference": 0.0006916877180319636
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "nih",
+        "filter_accuracy": 0.5659340659340659,
+        "filter_difference": 0.002208575737987495
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "oprea",
+        "filter_accuracy": 0.6046511627906976,
+        "filter_difference": 0.04092567259461921
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "pains",
+        "filter_accuracy": 0.5721649484536082,
+        "filter_difference": 0.008439458257529786
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "pfizer",
+        "filter_accuracy": 0.5,
+        "filter_difference": -0.06372549019607843
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "rule_of_3",
+        "filter_accuracy": 0.75,
+        "filter_difference": 0.18627450980392157
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "rule_of_4",
+        "filter_accuracy": 0.3684210526315789,
+        "filter_difference": -0.1953044375644995
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "rule_of_xu",
+        "filter_accuracy": 0.5310344827586206,
+        "filter_difference": -0.032691007437457786
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "surechembl",
+        "filter_accuracy": 0.5523255813953488,
+        "filter_difference": -0.011399908800729608
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "tice_herebicides",
+        "filter_accuracy": 0.5517241379310345,
+        "filter_difference": -0.012001352265043952
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "tice_insecticides",
+        "filter_accuracy": 0.6548672566371682,
+        "filter_difference": 0.09114176644108973
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "valence_discovery",
+        "filter_accuracy": 0.5048543689320388,
+        "filter_difference": -0.058871121264039594
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "zinc_basic",
+        "filter_accuracy": 0.5449438202247191,
+        "filter_difference": -0.018781669971359327
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "zinc_druglike",
+        "filter_accuracy": 0.5850340136054422,
+        "filter_difference": 0.021308523409363733
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "No Filter",
+        "filter_accuracy": 0.9698516897641624,
+        "filter_difference": 0
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "Lipinski",
+        "filter_accuracy": 0.9807638695288542,
+        "filter_difference": 0.010912179764691832
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "BeyondRo5",
+        "filter_accuracy": 0.9751745539177658,
+        "filter_difference": 0.0053228641536033905
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "BMS",
+        "filter_accuracy": 0.9791386271870794,
+        "filter_difference": 0.009286937422917085
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "Brenk",
+        "filter_accuracy": 0.9777647747220597,
+        "filter_difference": 0.007913084957897332
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "faf4_druglike",
+        "filter_accuracy": 0.9848369977255497,
+        "filter_difference": 0.014985307961387306
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "faf4_leadlike",
+        "filter_accuracy": 0.9847883597883598,
+        "filter_difference": 0.014936670024197407
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "ghose",
+        "filter_accuracy": 0.9813538710985003,
+        "filter_difference": 0.011502181334337891
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "hao",
+        "filter_accuracy": 0.9837471783295711,
+        "filter_difference": 0.013895488565408787
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "inpharmatica",
+        "filter_accuracy": 0.972972972972973,
+        "filter_difference": 0.0031212832088106657
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "lint",
+        "filter_accuracy": 0.9764192139737992,
+        "filter_difference": 0.006567524209636799
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "mlsmr",
+        "filter_accuracy": 0.973125,
+        "filter_difference": 0.0032733102358376565
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "mol_weight",
+        "filter_accuracy": 0.9705665930831494,
+        "filter_difference": 0.000714903318987048
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "nibr",
+        "filter_accuracy": 0.9791291831594099,
+        "filter_difference": 0.009277493395247527
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "nih",
+        "filter_accuracy": 0.9791386271870794,
+        "filter_difference": 0.009286937422917085
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "oprea",
+        "filter_accuracy": 0.9814560439560439,
+        "filter_difference": 0.01160435419188155
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "pains",
+        "filter_accuracy": 0.9745358090185676,
+        "filter_difference": 0.004684119254405261
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "pfizer",
+        "filter_accuracy": 0.9707475622968581,
+        "filter_difference": 0.0008958725326957406
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "rule_of_3",
+        "filter_accuracy": 0.9858906525573192,
+        "filter_difference": 0.016038962793156863
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "rule_of_4",
+        "filter_accuracy": 0.89375,
+        "filter_difference": -0.07610168976416232
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "rule_of_xu",
+        "filter_accuracy": 0.974304068522484,
+        "filter_difference": 0.004452378758321607
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "surechembl",
+        "filter_accuracy": 0.9791429654910884,
+        "filter_difference": 0.009291275726926007
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "tice_herebicides",
+        "filter_accuracy": 0.9852169766332857,
+        "filter_difference": 0.015365286869123307
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "tice_insecticides",
+        "filter_accuracy": 0.9828009828009828,
+        "filter_difference": 0.012949293036820464
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "valence_discovery",
+        "filter_accuracy": 0.9821989528795811,
+        "filter_difference": 0.012347263115418783
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "zinc_basic",
+        "filter_accuracy": 0.9801095416546555,
+        "filter_difference": 0.010257851890493108
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "zinc_druglike",
+        "filter_accuracy": 0.9817681458548332,
+        "filter_difference": 0.011916456090670824
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "No Filter",
+        "filter_accuracy": 0.9358108108108109,
+        "filter_difference": 0
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "Lipinski",
+        "filter_accuracy": 0.9379562043795621,
+        "filter_difference": 0.0021453935687512082
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "BeyondRo5",
+        "filter_accuracy": 0.9291338582677166,
+        "filter_difference": -0.0066769525430943055
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "BMS",
+        "filter_accuracy": 0.94,
+        "filter_difference": 0.004189189189189091
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "Brenk",
+        "filter_accuracy": 0.9470588235294117,
+        "filter_difference": 0.011248012718600875
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "faf4_druglike",
+        "filter_accuracy": 0.8804347826086957,
+        "filter_difference": -0.05537602820211518
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "faf4_leadlike",
+        "filter_accuracy": 0.8928571428571429,
+        "filter_difference": -0.04295366795366795
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "ghose",
+        "filter_accuracy": 0.9457831325301205,
+        "filter_difference": 0.009972321719309618
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "hao",
+        "filter_accuracy": 0.9583333333333334,
+        "filter_difference": 0.022522522522522515
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "inpharmatica",
+        "filter_accuracy": 0.9291666666666667,
+        "filter_difference": -0.0066441441441441595
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "lint",
+        "filter_accuracy": 0.9587628865979382,
+        "filter_difference": 0.022952075787127324
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "mlsmr",
+        "filter_accuracy": 0.9444444444444444,
+        "filter_difference": 0.008633633633633564
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "mol_weight",
+        "filter_accuracy": 0.9330985915492958,
+        "filter_difference": -0.002712219261515103
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "nibr",
+        "filter_accuracy": 0.930327868852459,
+        "filter_difference": -0.005482941958351861
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "nih",
+        "filter_accuracy": 0.94,
+        "filter_difference": 0.004189189189189091
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "oprea",
+        "filter_accuracy": 0.9274193548387096,
+        "filter_difference": -0.008391455972101225
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "pains",
+        "filter_accuracy": 0.9330985915492958,
+        "filter_difference": -0.002712219261515103
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "pfizer",
+        "filter_accuracy": 0.9426229508196722,
+        "filter_difference": 0.006812140008861323
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "rule_of_3",
+        "filter_accuracy": 1.0,
+        "filter_difference": 0.06418918918918914
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "rule_of_4",
+        "filter_accuracy": 0.75,
+        "filter_difference": -0.18581081081081086
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "rule_of_xu",
+        "filter_accuracy": 0.9285714285714286,
+        "filter_difference": -0.007239382239382253
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "surechembl",
+        "filter_accuracy": 0.921875,
+        "filter_difference": -0.013935810810810856
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "tice_herebicides",
+        "filter_accuracy": 0.9593023255813954,
+        "filter_difference": 0.023491514770584532
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "tice_insecticides",
+        "filter_accuracy": 0.9457831325301205,
+        "filter_difference": 0.009972321719309618
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "valence_discovery",
+        "filter_accuracy": 0.9117647058823529,
+        "filter_difference": -0.024046104928457934
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "zinc_basic",
+        "filter_accuracy": 0.9384057971014492,
+        "filter_difference": 0.002594986290638368
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "zinc_druglike",
+        "filter_accuracy": 0.8645833333333334,
+        "filter_difference": -0.07122747747747749
+    }
+]

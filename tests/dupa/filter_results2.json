@@ -1,0 +1,977 @@
+[
+    {
+        "dataset_name": "BACE",
+        "filter_name": "No Filter",
+        "filter_accuracy": 0.6381578947368421,
+        "filter_difference": 0
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "rule_of_3",
+            "faf4_druglike"
+        ],
+        "filter_accuracy": 1.0,
+        "filter_difference": 0.36184210526315785
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "rule_of_3",
+            "faf4_leadlike"
+        ],
+        "filter_accuracy": 1.0,
+        "filter_difference": 0.36184210526315785
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "rule_of_3",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.8,
+        "filter_difference": 0.1618421052631579
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "rule_of_3",
+            "hao"
+        ],
+        "filter_accuracy": 0.8888888888888888,
+        "filter_difference": 0.2507309941520467
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "rule_of_3",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 1.0,
+        "filter_difference": 0.36184210526315785
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "rule_of_3",
+            "lint"
+        ],
+        "filter_accuracy": 0.75,
+        "filter_difference": 0.11184210526315785
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "faf4_druglike",
+            "faf4_leadlike"
+        ],
+        "filter_accuracy": 0.8260869565217391,
+        "filter_difference": 0.187929061784897
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "faf4_druglike",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.8148148148148148,
+        "filter_difference": 0.17665692007797262
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "faf4_druglike",
+            "hao"
+        ],
+        "filter_accuracy": 0.7727272727272727,
+        "filter_difference": 0.13456937799043056
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "faf4_druglike",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.8421052631578947,
+        "filter_difference": 0.20394736842105254
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "faf4_druglike",
+            "lint"
+        ],
+        "filter_accuracy": 0.7647058823529411,
+        "filter_difference": 0.12654798761609898
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "faf4_leadlike",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.8181818181818182,
+        "filter_difference": 0.18002392344497609
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "faf4_leadlike",
+            "hao"
+        ],
+        "filter_accuracy": 0.75,
+        "filter_difference": 0.11184210526315785
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "faf4_leadlike",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.8333333333333334,
+        "filter_difference": 0.19517543859649122
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "faf4_leadlike",
+            "lint"
+        ],
+        "filter_accuracy": 0.8,
+        "filter_difference": 0.1618421052631579
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "tice_insecticides",
+            "hao"
+        ],
+        "filter_accuracy": 0.7142857142857143,
+        "filter_difference": 0.07612781954887216
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "tice_insecticides",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.7142857142857143,
+        "filter_difference": 0.07612781954887216
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "tice_insecticides",
+            "lint"
+        ],
+        "filter_accuracy": 0.6470588235294118,
+        "filter_difference": 0.008900928792569651
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "hao",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.76,
+        "filter_difference": 0.12184210526315786
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "hao",
+            "lint"
+        ],
+        "filter_accuracy": 0.6470588235294118,
+        "filter_difference": 0.008900928792569651
+    },
+    {
+        "dataset_name": "BACE",
+        "filter_name": [
+            "tice_herebicides",
+            "lint"
+        ],
+        "filter_accuracy": 0.6666666666666666,
+        "filter_difference": 0.028508771929824483
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": "No Filter",
+        "filter_accuracy": 0.5637254901960784,
+        "filter_difference": 0
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "rule_of_3",
+            "faf4_druglike"
+        ],
+        "filter_accuracy": 0.7142857142857143,
+        "filter_difference": 0.15056022408963587
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "rule_of_3",
+            "faf4_leadlike"
+        ],
+        "filter_accuracy": 0.75,
+        "filter_difference": 0.18627450980392157
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "rule_of_3",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.75,
+        "filter_difference": 0.18627450980392157
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "rule_of_3",
+            "hao"
+        ],
+        "filter_accuracy": 0.75,
+        "filter_difference": 0.18627450980392157
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "rule_of_3",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.7272727272727273,
+        "filter_difference": 0.16354723707664887
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "rule_of_3",
+            "lint"
+        ],
+        "filter_accuracy": 0.6428571428571429,
+        "filter_difference": 0.07913165266106448
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "faf4_druglike",
+            "faf4_leadlike"
+        ],
+        "filter_accuracy": 0.6323529411764706,
+        "filter_difference": 0.06862745098039214
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "faf4_druglike",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.6391752577319587,
+        "filter_difference": 0.07544976753588029
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "faf4_druglike",
+            "hao"
+        ],
+        "filter_accuracy": 0.648936170212766,
+        "filter_difference": 0.08521068001668752
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "faf4_druglike",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.5633802816901409,
+        "filter_difference": -0.00034520850593755537
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "faf4_druglike",
+            "lint"
+        ],
+        "filter_accuracy": 0.5697674418604651,
+        "filter_difference": 0.006041951664386702
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "faf4_leadlike",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.6885245901639344,
+        "filter_difference": 0.12479909996785599
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "faf4_leadlike",
+            "hao"
+        ],
+        "filter_accuracy": 0.7068965517241379,
+        "filter_difference": 0.14317106152805947
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "faf4_leadlike",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.6037735849056604,
+        "filter_difference": 0.04004809470958193
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "faf4_leadlike",
+            "lint"
+        ],
+        "filter_accuracy": 0.6086956521739131,
+        "filter_difference": 0.044970161977834655
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "tice_insecticides",
+            "hao"
+        ],
+        "filter_accuracy": 0.6666666666666666,
+        "filter_difference": 0.1029411764705882
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "tice_insecticides",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.6567164179104478,
+        "filter_difference": 0.09299092771436934
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "tice_insecticides",
+            "lint"
+        ],
+        "filter_accuracy": 0.6753246753246753,
+        "filter_difference": 0.1115991851285969
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "hao",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.6451612903225806,
+        "filter_difference": 0.0814358001265022
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "hao",
+            "lint"
+        ],
+        "filter_accuracy": 0.6666666666666666,
+        "filter_difference": 0.1029411764705882
+    },
+    {
+        "dataset_name": "BBBP",
+        "filter_name": [
+            "tice_herebicides",
+            "lint"
+        ],
+        "filter_accuracy": 0.543859649122807,
+        "filter_difference": -0.019865841073271384
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": "No Filter",
+        "filter_accuracy": 0.9700948212983224,
+        "filter_difference": 0
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "rule_of_3",
+            "faf4_druglike"
+        ],
+        "filter_accuracy": 0.9914529914529915,
+        "filter_difference": 0.02135817015466912
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "rule_of_3",
+            "faf4_leadlike"
+        ],
+        "filter_accuracy": 0.9890710382513661,
+        "filter_difference": 0.018976216953043745
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "rule_of_3",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.9871244635193133,
+        "filter_difference": 0.017029642220990904
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "rule_of_3",
+            "hao"
+        ],
+        "filter_accuracy": 0.9852670349907919,
+        "filter_difference": 0.015172213692469572
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "rule_of_3",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.9870967741935484,
+        "filter_difference": 0.01700195289522599
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "rule_of_3",
+            "lint"
+        ],
+        "filter_accuracy": 0.9833333333333333,
+        "filter_difference": 0.013238512035010919
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "faf4_druglike",
+            "faf4_leadlike"
+        ],
+        "filter_accuracy": 0.9847883597883598,
+        "filter_difference": 0.014693538490037406
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "faf4_druglike",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.984397854705022,
+        "filter_difference": 0.014303033406699583
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "faf4_druglike",
+            "hao"
+        ],
+        "filter_accuracy": 0.986058981233244,
+        "filter_difference": 0.015964159934921618
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "faf4_druglike",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.9883855981416957,
+        "filter_difference": 0.018290776843373324
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "faf4_druglike",
+            "lint"
+        ],
+        "filter_accuracy": 0.9864113650401483,
+        "filter_difference": 0.016316543741825895
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "faf4_leadlike",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.9851632047477745,
+        "filter_difference": 0.01506838344945216
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "faf4_leadlike",
+            "hao"
+        ],
+        "filter_accuracy": 0.98671875,
+        "filter_difference": 0.016623928701677615
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "faf4_leadlike",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.9868012422360248,
+        "filter_difference": 0.01670642093770247
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "faf4_leadlike",
+            "lint"
+        ],
+        "filter_accuracy": 0.9829659318637275,
+        "filter_difference": 0.01287111056540513
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "tice_insecticides",
+            "hao"
+        ],
+        "filter_accuracy": 0.9833246482542991,
+        "filter_difference": 0.013229826955976742
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "tice_insecticides",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.9860869565217392,
+        "filter_difference": 0.015992135223416803
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "tice_insecticides",
+            "lint"
+        ],
+        "filter_accuracy": 0.9841269841269841,
+        "filter_difference": 0.01403216282866171
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "hao",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.9868173258003766,
+        "filter_difference": 0.01672250450205426
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "hao",
+            "lint"
+        ],
+        "filter_accuracy": 0.9854872149274361,
+        "filter_difference": 0.01539239362911371
+    },
+    {
+        "dataset_name": "HIV",
+        "filter_name": [
+            "tice_herebicides",
+            "lint"
+        ],
+        "filter_accuracy": 0.9858712715855573,
+        "filter_difference": 0.015776450287234955
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": "No Filter",
+        "filter_accuracy": 0.9358108108108109,
+        "filter_difference": 0
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "rule_of_3",
+            "faf4_druglike"
+        ],
+        "filter_accuracy": 1.0,
+        "filter_difference": 0.06418918918918914
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "rule_of_3",
+            "faf4_leadlike"
+        ],
+        "filter_accuracy": 1.0,
+        "filter_difference": 0.06418918918918914
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "rule_of_3",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 1.0,
+        "filter_difference": 0.06418918918918914
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "rule_of_3",
+            "hao"
+        ],
+        "filter_accuracy": 1.0,
+        "filter_difference": 0.06418918918918914
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "rule_of_3",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 1.0,
+        "filter_difference": 0.06418918918918914
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "rule_of_3",
+            "lint"
+        ],
+        "filter_accuracy": 1.0,
+        "filter_difference": 0.06418918918918914
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "faf4_druglike",
+            "faf4_leadlike"
+        ],
+        "filter_accuracy": 0.8928571428571429,
+        "filter_difference": -0.04295366795366795
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "faf4_druglike",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.9,
+        "filter_difference": -0.035810810810810834
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "faf4_druglike",
+            "hao"
+        ],
+        "filter_accuracy": 0.90625,
+        "filter_difference": -0.029560810810810856
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "faf4_druglike",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.8833333333333333,
+        "filter_difference": -0.05247747747747755
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "faf4_druglike",
+            "lint"
+        ],
+        "filter_accuracy": 0.9310344827586207,
+        "filter_difference": -0.004776328052190193
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "faf4_leadlike",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.9318181818181818,
+        "filter_difference": -0.003992628992629088
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "faf4_leadlike",
+            "hao"
+        ],
+        "filter_accuracy": 0.9130434782608695,
+        "filter_difference": -0.022767332549941344
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "faf4_leadlike",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.9,
+        "filter_difference": -0.035810810810810834
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "faf4_leadlike",
+            "lint"
+        ],
+        "filter_accuracy": 0.8125,
+        "filter_difference": -0.12331081081081086
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "tice_insecticides",
+            "hao"
+        ],
+        "filter_accuracy": 0.95,
+        "filter_difference": 0.0141891891891891
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "tice_insecticides",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.9590163934426229,
+        "filter_difference": 0.02320558263181205
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "tice_insecticides",
+            "lint"
+        ],
+        "filter_accuracy": 0.9454545454545454,
+        "filter_difference": 0.00964373464373458
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "hao",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.9568965517241379,
+        "filter_difference": 0.021085740913327045
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "hao",
+            "lint"
+        ],
+        "filter_accuracy": 0.9636363636363636,
+        "filter_difference": 0.02782555282555277
+    },
+    {
+        "dataset_name": "ClinTox",
+        "filter_name": [
+            "tice_herebicides",
+            "lint"
+        ],
+        "filter_accuracy": 0.9642857142857143,
+        "filter_difference": 0.028474903474903446
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": "No Filter",
+        "filter_accuracy": 0.7837347837347838,
+        "filter_difference": 0
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "rule_of_3",
+            "faf4_druglike"
+        ],
+        "filter_accuracy": 0.8148148148148148,
+        "filter_difference": 0.03108003108003099
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "rule_of_3",
+            "faf4_leadlike"
+        ],
+        "filter_accuracy": 0.7962962962962963,
+        "filter_difference": 0.0125615125615125
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "rule_of_3",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.8047138047138047,
+        "filter_difference": 0.020979020979020935
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "rule_of_3",
+            "hao"
+        ],
+        "filter_accuracy": 0.792022792022792,
+        "filter_difference": 0.008288008288008242
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "rule_of_3",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.7993827160493827,
+        "filter_difference": 0.015647932314598934
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "rule_of_3",
+            "lint"
+        ],
+        "filter_accuracy": 0.8055555555555556,
+        "filter_difference": 0.0218207718207718
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "faf4_druglike",
+            "faf4_leadlike"
+        ],
+        "filter_accuracy": 0.782608695652174,
+        "filter_difference": -0.001126088082609833
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "faf4_druglike",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.7795414462081128,
+        "filter_difference": -0.004193337526670948
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "faf4_druglike",
+            "hao"
+        ],
+        "filter_accuracy": 0.761437908496732,
+        "filter_difference": -0.022296875238051794
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "faf4_druglike",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.7883597883597884,
+        "filter_difference": 0.004625004625004592
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "faf4_druglike",
+            "lint"
+        ],
+        "filter_accuracy": 0.7768518518518519,
+        "filter_difference": -0.006882931882931875
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "faf4_leadlike",
+            "tice_insecticides"
+        ],
+        "filter_accuracy": 0.7699805068226121,
+        "filter_difference": -0.013754276912171681
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "faf4_leadlike",
+            "hao"
+        ],
+        "filter_accuracy": 0.7613168724279835,
+        "filter_difference": -0.022417911306800264
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "faf4_leadlike",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.7760942760942761,
+        "filter_difference": -0.007640507640507721
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "faf4_leadlike",
+            "lint"
+        ],
+        "filter_accuracy": 0.8121693121693122,
+        "filter_difference": 0.028434528434528428
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "tice_insecticides",
+            "hao"
+        ],
+        "filter_accuracy": 0.7559354226020892,
+        "filter_difference": -0.027799361132694544
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "tice_insecticides",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.7787524366471735,
+        "filter_difference": -0.0049823470876102505
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "tice_insecticides",
+            "lint"
+        ],
+        "filter_accuracy": 0.7707707707707707,
+        "filter_difference": -0.01296401296401306
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "hao",
+            "tice_herebicides"
+        ],
+        "filter_accuracy": 0.761437908496732,
+        "filter_difference": -0.022296875238051794
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "hao",
+            "lint"
+        ],
+        "filter_accuracy": 0.7474747474747475,
+        "filter_difference": -0.036260036260036266
+    },
+    {
+        "dataset_name": "SIDER",
+        "filter_name": [
+            "tice_herebicides",
+            "lint"
+        ],
+        "filter_accuracy": 0.7962962962962963,
+        "filter_difference": 0.0125615125615125
+    }
+]
