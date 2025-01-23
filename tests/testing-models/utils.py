@@ -13,7 +13,14 @@ def activate_filter(filter, X_train, y_train, X_valid, y_valid, X_test, y_test):
     X_train_filtered, y_train_filtered = filter_x_and_y(X_train, y_train, filter)
     X_test_filtered, y_test_filtered = filter_x_and_y(X_test, y_test, filter)
     X_valid_filtered, y_valid_filtered = filter_x_and_y(X_valid, y_valid, filter)
-    return X_train_filtered, y_train_filtered, X_valid_filtered, y_valid_filtered, X_test_filtered, y_test_filtered
+    return (
+        X_train_filtered,
+        y_train_filtered,
+        X_valid_filtered,
+        y_valid_filtered,
+        X_test_filtered,
+        y_test_filtered,
+    )
 
 
 def filter_x_and_y(data, labels, filter):

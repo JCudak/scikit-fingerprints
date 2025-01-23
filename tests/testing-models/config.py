@@ -1,6 +1,6 @@
+from skfp.datasets.moleculenet import load_moleculenet_benchmark
 from skfp.filters import *
 from skfp.fingerprints import *
-from skfp.datasets.moleculenet import load_moleculenet_benchmark
 
 datasets = load_moleculenet_benchmark(subset="classification")
 forbidden_datasets = ["MUV", "Tox21", "ToxCast", "PCBA"]

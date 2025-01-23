@@ -1,8 +1,9 @@
+from config import datasets, forbidden_datasets
 from dataset_processor import DatasetProcessor
+from evaluation import check_combinations, check_filters
 from model_pipeline import ModelPipeline, create_model
 from results import save_results_to_json
-from config import datasets, forbidden_datasets
-from evaluation import check_combinations, check_filters
+
 
 def main():
     combination_results = []

@@ -1,5 +1,6 @@
 import json
 
+
 def save_results_to_json(all_results, filename):
     with open(filename, "w") as f:
         json.dump(all_results, f, indent=4)
